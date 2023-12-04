@@ -242,18 +242,3 @@ button {
     color: #ffffff;
     cursor: pointer;
 }
-.rt1{
-    position: relative;
-    right: 1000px;    
-    top: 40px;
-}
-.rt2{
-    position: absolute;    
-    right: 700px;    
-    top: 1000px;
-}
-.rt3{
-    position: absolute;    
-    right: 60px;    
-    top: 1000px;
-}
